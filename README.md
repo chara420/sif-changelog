@@ -37,41 +37,41 @@ Algúnos códigos   diversos foros de programación en PAWN
 			Se corrigieron varios errores de comandos VIP, y se cambío la variable "Ingresado" a booleana ya que se presentaron diversos problemas con el inicio y demás
 			Se agregó el sistema Anti-Spam avanzado(Gracias al creador de admin-system)
 			Se agregó el cmd /banevento y /desbevento
-Versión 3.8:
+## Versión 3.8:
 			Se agregaron pequeños detalles al sistema de eventos,Como que el congelar no afecte a jugadores mayores a nivel 1 de admin,Tambien se quitó el sistema de users especiales
 			Se agregó el sistema de eventos para administadores mayores al nivel 2(Gracias a KoS(Brasileiro) Por la base ;))
 			Cada 1 de 5 veces mostrará el mensaje (%s(%d) fué a %s) para evitar flood al usar x comando de teleport,También se modificó el texto de la consola al Cargar el gm
 			Fueron arreglados errores ortográficos(By me xD) y se agregó el cmd /zonarw(Ya estaba en /minijuegos)
 			A hora al usar /skin saldran diversos colores además del el actual(era azul)
 			Se agregaron nuevos CMD's VIP y se reparó el cmd /vcmd(Donde puedes ver tus CMD's VIP)
-Versíon 3.7:
+## Versíon 3.7:
 			Se agregaron nuevas funciones al panel de usuarios(Cambiar nombre y contraseña) y se reparó el cmd /nombre
 			Se agregó el minijuego colormatch(Gracias rootcause), se reparó y se agregó el cmd /reportar [id] [reason]
 			Se agregó el sistema de guardado de colores para jugadores y el cmd /colores//En proceso
 			Se agregó un archivo llamado "Musicas.ini" donde se podran las músicas de inicio el límite es 10 ;)
 			Se corrigieron los errores de los Textdraws de inicio
 			El archivo "Comandos.log" será borrado cada vez que se cierre el servidor por lo que será un archivo caché para poder ver los CMD's usados en ese momento
-Versíon 3.6:
+## Versíon 3.6:
 			Al spawnear tendrás armas random
 			Se mejoró el aplicado de animaciones
 			Se agregó el panel de control de usuario(/panel)
 			Hasta nuevo aviso no habrá Derby
 			Se corrigieron errores en los vehiculos
 			Se ordenó la carpeta del servidor(En ScriptFiles)
-Versión 3.5:
+## Versión 3.5:
 			Se agregaron nuevos comandos al sistema de administración
 			Se agregó y corrigió el CMD /vips y /admins
 			Fue agregada la moneda "Coin" al servidor,los usuarios podran tener cosas únicas comprando con coins atravez de /scoin
 			Si se define (#define OFERTA) en el GM saldran várias ofertas para usuarios(Por ejemplo guardar y cargar autos sin la necesidad de ser VIPs)
 			El sistema de objetos dinámicos será en SQLite al igual que el sistema de clanes
             Fué agregado el minijuego "Resident Evil"//En proceso Lol xD
-Versión 3.4:
+## Versión 3.4:
 			Se sacó el sistema Duty-ADM
 			Se agregaron nuevos CMD's para ópciones de cuentas(/stats,/Nombre,/deleteacc)
 			El gm fué pasado de SQLite a DiNi(By DracoBlue) futuros bugs seran reparados
 			El sistema de guardado de objetos dinámicos aún sigue en SQLite
 			Fué agregado el sistema de users especiales!
 			-
-Another Versions...
-Notas:
+~~Another Versions...~~
+## Notas:
 			>~~El servidor pasó por MUCHOS cambios en su sistema de guardado desde un principio en Mysql luego por SQLite y finalmente en DiNi~~
