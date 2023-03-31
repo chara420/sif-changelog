@@ -1,17 +1,17 @@
 # Super Infinity Freeroam Changelog
-***
+```
 Créditos:
 Cargo:            Encargado/a:
-
 Ídea              Chara420
 Mapper            Chara420
 Scripter          Chara420
 Algúnos códigos   diversos foros de programación en PAWN
 
 
-		   ~~Super Infinity Freeroam DiNi
-		   2017      -        2020~~
-***
+		   Super Infinity Freeroam DiNi
+		   2017      -        2020
+
+```
 ## Registro de Cambios:
 ## Versión 4.2:
 			Se agregó el sistema de niveles con experiencia próximamente se agregarán más comandos relacionados y futuros bugs van a ser reparados
